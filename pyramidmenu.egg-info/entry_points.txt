@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = pyramidmenu:main
+      [console_scripts]
+      initialize_pyramidmenu_db = pyramidmenu.scripts.initializedb:main
+      
